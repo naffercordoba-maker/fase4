@@ -60,6 +60,7 @@ Este proyecto corresponde a la Fase 4 – Componente práctico del curso de Prog
 El desarrollo se realizará de manera individual, siguiendo los requerimientos establecidos en la guía de actividades.
 
 ### Autor
+Nafer Trelles Cordoba 
 Estudiante de la Universidad Nacional Abierta y a Distancia (UNAD).
 
 Curso: Programación  
